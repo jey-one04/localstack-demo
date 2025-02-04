@@ -1,2 +1,1 @@
-# LocalStack Demo
-This repository is for testing LocalStack on GitHub Codespaces.
+# staic website hosting using an S3 bucket
